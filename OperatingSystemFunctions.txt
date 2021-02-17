@@ -1,2 +1,3 @@
 An operating system allows a user to access the interface in order to do many different things
 The Operating system allows a user to connect and interact with programs that connect to the internet and access websites. This allows the user to have access to the entire World Wide Web.
+An operating system allows a user to install programs and applications that let the user interact with the programs. This allows the user to have things like Google Chrome, Netflix, or even Steam on their computer. This also unlocks numerous different things and possibilities for the user.
